@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.mouse-over-div{
+    width: 100px;
+    height: 300px;
+    padding: 10px;
+    margin: 50px;
+    border: 1px solid black;
+    background-color: gray;
+    color: pink;
+    /* transition: all 03s ease-in-out; */
+}
+
+#simple-button{
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+    margin:50px;
+}
+
+#the-number{
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+    margin:50px;
+}
